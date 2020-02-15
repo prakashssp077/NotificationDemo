@@ -12,7 +12,7 @@
        android:layout_height="match_parent"
        android:textSize="25dp"
        android:layout_marginTop="50dp"
-       android:text="This application supports only android version 7 and below "/>
+       android:text="This application supports only android version 7 and below  "/>
 
    <Button
        android:layout_width="wrap_content"
